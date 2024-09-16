@@ -28,12 +28,14 @@
 .recipes__videos {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  margin: 0;
+  padding-left: 0;
+  gap: 40px;
   list-style-type: none;
 }
 
 .recipes__iframe {
-  width: 400px;
+  width: 480px;
   height: 273px;
   border-width: 0;
 }

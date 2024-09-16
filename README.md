@@ -21,7 +21,7 @@ Some of the technologies used in this project were:
 - Form (with placeholder text within them)
 - Navigation Links that are functional to go to each part of the website.
 
-## Plan on improving the project
+## Plansgit status on improving the project
 
 Some of the ideas I had while making this page were:
 
